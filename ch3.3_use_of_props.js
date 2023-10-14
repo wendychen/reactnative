@@ -15,7 +15,7 @@ class LotsOfGreetings extends Component {
       <View sytle={{alignItems: 'center'}}>
         <Greeting name='Rexxar' />
         <Greeting name='Jaina' />
-        <Greeting name='Valeera' ?>
+        <Greeting name='Valeera' />
       </View>
     );
   }
